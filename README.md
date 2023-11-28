@@ -6,14 +6,14 @@
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 Side Hustle 
-<a href="https://www.salnet.xyz">Ytube</a>
+<a href="https://www.coderinbay.com">Ytube</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </em>
 </p>
 
-[![Twitter: Sal](https://img.shields.io/twitter/follow/salnetxyz?style=social)](https://twitter.com/salnetxyz)
-[![GitHub Sal](https://img.shields.io/github/followers/salnetxyz?label=follow&style=social)](https://github.com/salnetxyz)
+[![Twitter: Sal](https://img.shields.io/twitter/follow/coderinbay?style=social)](https://twitter.com/coderinbay)
+[![GitHub Sal](https://img.shields.io/github/followers/coderinbay?label=follow&style=social)](https://github.com/coderinbay)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
