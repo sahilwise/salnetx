@@ -5,8 +5,8 @@
 <a href="http://www.unb.br"></a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-Side Hustle 
-<a href="https://www.salnet.xyz">Ytube</a>
+Building in public
+<a href="https://www.sipson.tech">Sipson</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </em>
