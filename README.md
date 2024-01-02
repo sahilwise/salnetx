@@ -1,17 +1,6 @@
 <h2> Hi, I'm Sal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.ibb.co/48pXKgs/Untitled-design-6.png" width="230">
 
-<p><em>SWE
-<a href="http://www.unb.br"></a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-
-Building in public
-<a href="https://www.sipson.tech">Sipson</a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-</em>
-</p>
-
 [![Twitter: Sal](https://img.shields.io/twitter/follow/salnetx?style=social)](https://twitter.com/coderinbay)
 [![GitHub Sal](https://img.shields.io/github/followers/salnetx?label=follow&style=social)](https://github.com/coderinbay)
 
