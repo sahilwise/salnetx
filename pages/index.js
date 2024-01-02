@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <>
+    <> 
     <section className="pb-12 bg-gradient-to-b from-[#015453] via-[#015453] to-[#2A6766]">
                 <div class="items-center pt-12 px-8 mx-auto max-w-7xl lg:px-16 md:px-12">
                   <div class="justify-center w-full text-center lg:p-10 max-auto">
