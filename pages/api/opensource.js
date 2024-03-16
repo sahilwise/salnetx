@@ -1,19 +1,19 @@
 const data = [
     {
       name: 'Apple Music Clone',
-      route: '/xintent',
-      image: '/xintent.webp',
-      earning: '$0k/mo',
-      des: 'Simplify Your Tweets! ¨ Generate custom Twitter links with prewritten text. ',
+      route: 'https://salnet.gumroad.com/l/applemusicui',
+      image: '/applemusic.png',
+      earning: '',
+      des: 'Check out this awesome Apple Music clone using React Native and Tailwind Css.',
       color: '#f80000'
     },
 
     {
       name: 'Instagram Clone',
-      route: 'https://gitsauce.site',
-      image: '/xintent.webp',
-      earning: '$null/mo',
-      des: 'Watch All Streaming Platform from One Open Source Player. Coming Soon.',
+      route: 'https://salnet.gumroad.com/l/instagramui',
+      image: '/instagram.png',
+      earning: '',
+      des: 'Check out this awesome Instagram clone using React Native and Tailwind Css.',
       color: '#D8B3FE'
     }
     

@@ -2,9 +2,9 @@ const data = [
   {
     name: 'Open Source',
     route: '/opensource',
-    image: '/xintent.webp',
+    image: '/github.png',
     earning: '$0k/mo',
-    des: 'Simplify Your Tweets! ¨ Generate custom Twitter links with prewritten text. ',
+    des: 'Check out all my OpenSource projects. Feel free to clone or fork any of them.',
     color: '#f80000'
   },
 
@@ -13,7 +13,7 @@ const data = [
       route: '/xintent',
       image: '/xintent.webp',
       earning: '$0k/mo',
-      des: 'Simplify Your Tweets! ¨ Generate custom Twitter links with prewritten text. ',
+      des: 'Generate Twitter or X intents with pre-filled text. Generate your intent for free.',
       color: '#f80000'
     },
 
@@ -22,16 +22,16 @@ const data = [
       route: 'https://gitsauce.site',
       image: '/xintent.webp',
       earning: '$null/mo',
-      des: 'Watch All Streaming Platform from One Open Source Player. Coming Soon.',
+      des: 'Gitsauce - Build any software in days, not months. Checkout gitsauce now.',
       color: '#D8B3FE'
     },
 
     {
       name: 'Envato',
-      route: '/',
-      image: '/xintent.webp',
+      route: 'https://codecanyon.net/user/salnetx',
+      image: '/envato.png',
       earning: '$null/mo',
-      des: 'Watch All Streaming Platform from One Open Source Player. Coming Soon.'
+      des: 'Check out my Envato portfolio to find cool projects with source code.'
     },
 
     

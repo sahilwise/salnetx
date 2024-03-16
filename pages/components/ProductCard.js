@@ -20,6 +20,7 @@ const ProductCard = ({name, route, image, earning, des, color})=>{
                                   width={40}
                                   height={40}
                                   alt="Image"
+                                  className="rounded-xl"
                               />
                             )}
                               <p class="font-semibold text-2xl">
