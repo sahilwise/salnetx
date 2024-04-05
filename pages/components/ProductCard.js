@@ -4,9 +4,9 @@ import Link from "next/link";
 
 const ProductCard = ({name, route, image, earning, des, color})=>{
     return(
-      <div>
-
-        <section onClick={()=>{location.assign(route)}} class={`backdrop-blur-3xl border border-dashed hover:border-dotted border-neutral-500 rounded-3xl bg-[${color}]`}>
+      <div className="rounded-3xl">
+        
+        <section onClick={()=>{location.assign(route)}} class={`hover:-skew-x-2 hover:skew-y-2 transition-transform duration-500 backdrop-blur-3xl border border-2 border-neutral-600 rounded-3xl bg-[${color}]`}>
               
                  
                     <div class="lg:order-first">

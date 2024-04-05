@@ -20,7 +20,7 @@ const data = [
     {
       name: 'Gitsauce',
       route: 'https://gitsauce.site',
-      image: '/xintent.webp',
+      image: '/gitsauce.png',
       earning: '$null/mo',
       des: 'Gitsauce - Build any software in days, not months. Checkout gitsauce now.',
       color: '#D8B3FE'
