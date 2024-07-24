@@ -1,4 +1,4 @@
-<h2> Hi, I'm Sal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Sahil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.ibb.co/48pXKgs/Untitled-design-6.png" width="230">
 
 [![Twitter: Sal](https://img.shields.io/twitter/follow/salnetx?style=social)](https://twitter.com/coderinbay)
